@@ -2,18 +2,16 @@
 Data Analysis Project | Streamlit | Pandas | Matplotlib | seaborn 
 # Olympic Data Analysis Project with streamlit app 
 
-![Olimpiyatlar](https://i2.wp.com/tdf.gov.tr/wp-content/uploads/2021/07/olimpiyat2.jpg?fit=800%2C400&ssl=1)
-
-
-
 ![Olimpiyatlar](1.1.png)
 
-
+![Olimpiyatlar](1.2.png)
 
 
 ## Proje Açıklaması
 
-Bu proje, Olimpiyat Oyunları verileri üzerinde veri analizi ve görselleştirme işlemleri gerçekleştirmek için Python programlama dili ve çeşitli veri bilimi kütüphaneleri kullanılarak geliştirilmiş bir projedir.
+Bu proje, Olimpiyat Oyunları verileri üzerinden veri analizi ve görselleştirme işlemleri gerçekleştirmek için Python programlama dili ve çeşitli veri bilimi kütüphaneleri kullanılarak geliştirilmiş bir Data Analizi projesidir.
+
+Veri kaynağı : https://www.kaggle.com/datasets/heesoo37/120-years-of-olympic-history-athletes-and-results
 
 Proje, aşağıdaki ana hedefleri gerçekleştirmeyi amaçlamaktadır:
 
@@ -22,7 +20,11 @@ Proje, aşağıdaki ana hedefleri gerçekleştirmeyi amaçlamaktadır:
 3. **Ülke Bazlı Analiz**: Belirli bir ülkenin Olimpiyat geçmişinin analiz edilmesi.
 4. **Sporcu Bazlı Analiz**: Olimpiyat sporcularının dağılımı ve başarılarının incelenmesi.
 
-Proje, veri analizi ve görselleştirmenin yanı sıra, Streamlit ve Plotly gibi araçlar kullanarak sonuçları web tabanlı bir arayüz üzerinde görüntülemenizi sağlar.
+Proje, veri analizi ve görselleştirmenin yanı sıra, Streamlit ve Plotly gibi araçlar kullanarak sonuçları Streamlit sayesinde web tabanlı bir arayüz üzerinde görüntülemenizi sağlar.
+
+![Olimpiyatlar](1.3.png)
+
+![Olimpiyatlar](1.4.png)
 
 ## Nasıl Kullanılır
 
