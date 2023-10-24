@@ -4,7 +4,11 @@ Data Analysis Project | Streamlit | Pandas | Matplotlib | seaborn
 
 ![Olimpiyatlar](https://i2.wp.com/tdf.gov.tr/wp-content/uploads/2021/07/olimpiyat2.jpg?fit=800%2C400&ssl=1)
 
-!1.1.png
+
+
+![Olimpiyatlar](1.1.png)
+
+
 
 
 ## Proje Açıklaması
